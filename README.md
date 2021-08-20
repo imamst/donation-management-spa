@@ -26,7 +26,12 @@ https://imamsetiawan.id/projects/donation-management-spa/
 
 # Screenshots
 
-![img](https://github.com/onestica/digital-printing-inventory-management-system/blob/main/public/docs/login-page.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/login-page.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/dashboard.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/donasi-index.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/donation-input.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/annual-report.png?raw=true)
+![img](https://github.com/onestica/donation-management-spa/blob/main/public/docs/user-restriction.png?raw=true)
 
 ## Getting Started
 
@@ -40,7 +45,8 @@ https://imamsetiawan.id/projects/donation-management-spa/
 	* `DB_PASSWORD`
 * Open terminal inside project folder
 * Run command `php artisan key:generate`
-* Run command `php artisan migrate`
+* Run command `php artisan migrate:refresh` (without demo data)
+	* Or `php artisan migrate:refresh --seed` (with demo data)
 * Run command `php artisan serve` then access http://localhost:8000 in your browser
 
 ## Author Contact
