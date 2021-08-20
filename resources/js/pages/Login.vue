@@ -48,14 +48,6 @@
                 transform: translate(-50%, -50%);
     }
 
-    figure.login-form__logo {
-        text-align: center;
-    }
-
-    figure.login-form__logo > img {
-        width: 100%;
-    }
-
     h1.login-form__title {
         margin: 0 auto;
         text-align: center;
@@ -143,14 +135,10 @@
 
         .login-form {
             background-color: #FFFFFF;
-            padding: 1rem 3rem 2rem;
+            padding: 2rem 3rem 2rem;
             border-radius: 10px;
             -webkit-box-shadow: rgba(0, 0, 0, 0.06) 0px 4px 12px;
                     box-shadow: rgba(0, 0, 0, 0.06) 0px 4px 12px;
-        }
-
-        figure.login-form__logo > img {
-            width: 70%;
         }
 
         p.password-reset-notice {
@@ -163,10 +151,7 @@
     <div class="main-container">
         <main>
             <div class="login-form">
-                <figure class="login-form__logo">
-                    <img src="img/logo-bq.png" alt="Logo Baitul Quran">
-                </figure>
-                <h1 class="login-form__title">Sistem Keuangan BQ</h1>
+                <h1 class="login-form__title">Donation Management</h1>
                 <form class="login-form__form" @submit.prevent="login">
                     <div class="login-form__field-wrapper">
                         <label for="email"  class="login-form__label">Email</label>

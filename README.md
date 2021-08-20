@@ -44,6 +44,8 @@ https://imamsetiawan.id/projects/donation-management-spa/
 	* `DB_USERNAME`
 	* `DB_PASSWORD`
 * Open terminal inside project folder
+* Run command `npm run watch`
+* Open another terminal
 * Run command `php artisan key:generate`
 * Run command `php artisan migrate:refresh` (without demo data)
 	* Or `php artisan migrate:refresh --seed` (with demo data)

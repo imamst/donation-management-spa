@@ -6423,9 +6423,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -7185,7 +7182,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 exports.push([module.i, "@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap);", ""]);
 
 // module
-exports.push([module.i, "/*\n* Prefixed by https://autoprefixer.github.io\n* PostCSS: v8.3.6,\n* Autoprefixer: v10.3.1\n* Browsers: last 4 version\n*/\n*[data-v-3b6adb30] {\n  outline: none;\n}\n.error[data-v-3b6adb30] {\n  border: 1px solid #EB1F12;\n}\n.invalid-feedback[data-v-3b6adb30] {\n  color: #EB1F12;\n  margin-top: .6rem;\n  margin-bottom: 1.4rem;\n}\n.main-container[data-v-3b6adb30] {\n  /* margin: 0;\n    padding: 0; */\n  min-height: 100vh;\n  overflow: hidden;\n  position: relative;\n  background-color: #ffffff;\n  font-family: 'Roboto', sans-serif;\n  color: #32507A;\n}\na[data-v-3b6adb30] {\n  text-decoration: none;\n  color: #277FFE;\n}\nmain[data-v-3b6adb30] {\n  width: 80%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\nfigure.login-form__logo[data-v-3b6adb30] {\n  text-align: center;\n}\nfigure.login-form__logo > img[data-v-3b6adb30] {\n  width: 100%;\n}\nh1.login-form__title[data-v-3b6adb30] {\n  margin: 0 auto;\n  text-align: center;\n}\nform.login-form__form[data-v-3b6adb30] {\n  margin-top: 2.4rem;\n}\n.login-form__field-wrapper[data-v-3b6adb30] {\n  margin-bottom: 1.4rem;\n}\n.login-form__input-wrapper[data-v-3b6adb30] {\n  margin: .4rem auto;\n  padding: .8rem 1.2rem;\n  border-radius: 5px;\n  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;\n}\nlabel.login-form__label[data-v-3b6adb30] {\n  color: #8490A7;\n  font-weight: 500;\n  margin-bottom: 0;\n}\n.login-form__input-wrapper > svg[data-v-3b6adb30] {\n  color: #277FFE;\n}\ninput.login-form__input[data-v-3b6adb30] {\n  display: inline-block;\n  width: 90%;\n  height: 30px;\n  border: none;\n  margin-left: .4rem;\n  font-size: 1rem;\n  color: #32507A;\n}\ninput.login-form__input[data-v-3b6adb30]:focus, \ninput.login-form__input[data-v-3b6adb30]:focus-visible, \ninput.login-form__input[data-v-3b6adb30]:active {\n  border: none;\n  border-bottom: 1px solid #277FFE;\n}\n.login-form__submit-btn[data-v-3b6adb30] {\n  width: 100%;\n  margin-top: .6rem;\n  padding: .8rem;\n  border: none;\n  background-color: #277FFE;\n  color: #FFFFFF;\n  border-radius: 5px;\n  transition: background-color 0.3s linear;\n  cursor: pointer;\n}\n.login-form__submit-btn[data-v-3b6adb30]:focus,\n.login-form__submit-btn[data-v-3b6adb30]:active,\n.login-form__submit-btn[data-v-3b6adb30]:hover {\n  background-color: #0155cb;\n  border: none;\n}\np.password-reset-notice[data-v-3b6adb30] {\n  margin-top: 2rem;\n  text-align: center;\n  color: #8490A7;\n}\n@media screen and (min-width: 768px) {\n.main-container[data-v-3b6adb30] {\n    background-color: #F2F5FF;\n}\nmain[data-v-3b6adb30] {\n    width: max(400px, 35%);\n    margin: auto;\n}\n.login-form[data-v-3b6adb30] {\n    background-color: #FFFFFF;\n    padding: 1rem 3rem 2rem;\n    border-radius: 10px;\n    box-shadow: rgba(0, 0, 0, 0.06) 0px 4px 12px;\n}\nfigure.login-form__logo > img[data-v-3b6adb30] {\n    width: 70%;\n}\np.password-reset-notice[data-v-3b6adb30] {\n    margin-top: 1.4rem;\n}\n}\n", ""]);
+exports.push([module.i, "/*\n* Prefixed by https://autoprefixer.github.io\n* PostCSS: v8.3.6,\n* Autoprefixer: v10.3.1\n* Browsers: last 4 version\n*/\n*[data-v-3b6adb30] {\n  outline: none;\n}\n.error[data-v-3b6adb30] {\n  border: 1px solid #EB1F12;\n}\n.invalid-feedback[data-v-3b6adb30] {\n  color: #EB1F12;\n  margin-top: .6rem;\n  margin-bottom: 1.4rem;\n}\n.main-container[data-v-3b6adb30] {\n  /* margin: 0;\n    padding: 0; */\n  min-height: 100vh;\n  overflow: hidden;\n  position: relative;\n  background-color: #ffffff;\n  font-family: 'Roboto', sans-serif;\n  color: #32507A;\n}\na[data-v-3b6adb30] {\n  text-decoration: none;\n  color: #277FFE;\n}\nmain[data-v-3b6adb30] {\n  width: 80%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\nfigure.login-form__logo[data-v-3b6adb30] {\n  text-align: center;\n}\nfigure.login-form__logo > img[data-v-3b6adb30] {\n  width: 100%;\n}\nh1.login-form__title[data-v-3b6adb30] {\n  margin: 0 auto;\n  text-align: center;\n}\nform.login-form__form[data-v-3b6adb30] {\n  margin-top: 2.4rem;\n}\n.login-form__field-wrapper[data-v-3b6adb30] {\n  margin-bottom: 1.4rem;\n}\n.login-form__input-wrapper[data-v-3b6adb30] {\n  margin: .4rem auto;\n  padding: .8rem 1.2rem;\n  border-radius: 5px;\n  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;\n}\nlabel.login-form__label[data-v-3b6adb30] {\n  color: #8490A7;\n  font-weight: 500;\n  margin-bottom: 0;\n}\n.login-form__input-wrapper > svg[data-v-3b6adb30] {\n  color: #277FFE;\n}\ninput.login-form__input[data-v-3b6adb30] {\n  display: inline-block;\n  width: 90%;\n  height: 30px;\n  border: none;\n  margin-left: .4rem;\n  font-size: 1rem;\n  color: #32507A;\n}\ninput.login-form__input[data-v-3b6adb30]:focus, \ninput.login-form__input[data-v-3b6adb30]:focus-visible, \ninput.login-form__input[data-v-3b6adb30]:active {\n  border: none;\n  border-bottom: 1px solid #277FFE;\n}\n.login-form__submit-btn[data-v-3b6adb30] {\n  width: 100%;\n  margin-top: .6rem;\n  padding: .8rem;\n  border: none;\n  background-color: #277FFE;\n  color: #FFFFFF;\n  border-radius: 5px;\n  transition: background-color 0.3s linear;\n  cursor: pointer;\n}\n.login-form__submit-btn[data-v-3b6adb30]:focus,\n.login-form__submit-btn[data-v-3b6adb30]:active,\n.login-form__submit-btn[data-v-3b6adb30]:hover {\n  background-color: #0155cb;\n  border: none;\n}\np.password-reset-notice[data-v-3b6adb30] {\n  margin-top: 2rem;\n  text-align: center;\n  color: #8490A7;\n}\n@media screen and (min-width: 768px) {\n.main-container[data-v-3b6adb30] {\n    background-color: #F2F5FF;\n}\nmain[data-v-3b6adb30] {\n    width: max(400px, 35%);\n    margin: auto;\n}\n.login-form[data-v-3b6adb30] {\n    background-color: #FFFFFF;\n    padding: 2rem 3rem 2rem;\n    border-radius: 10px;\n    box-shadow: rgba(0, 0, 0, 0.06) 0px 4px 12px;\n}\nfigure.login-form__logo > img[data-v-3b6adb30] {\n    width: 70%;\n}\np.password-reset-notice[data-v-3b6adb30] {\n    margin-top: 1.4rem;\n}\n}\n", ""]);
 
 // exports
 
@@ -37513,10 +37510,8 @@ var render = function() {
   return _c("div", { staticClass: "main-container" }, [
     _c("main", [
       _c("div", { staticClass: "login-form" }, [
-        _vm._m(0),
-        _vm._v(" "),
         _c("h1", { staticClass: "login-form__title" }, [
-          _vm._v("Sistem Keuangan BQ")
+          _vm._v("Donation Management")
         ]),
         _vm._v(" "),
         _c(
@@ -37677,19 +37672,11 @@ var render = function() {
         )
       ]),
       _vm._v(" "),
-      _vm._m(1)
+      _vm._m(0)
     ])
   ])
 }
 var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("figure", { staticClass: "login-form__logo" }, [
-      _c("img", { attrs: { src: "img/logo-bq.png", alt: "Logo Baitul Quran" } })
-    ])
-  },
   function() {
     var _vm = this
     var _h = _vm.$createElement
@@ -58403,8 +58390,8 @@ var setRole = function setRole(role) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Imam\Documents\Work Projects\Sistem Keuangan - PP Baitul Quran Tangsel\siskeu-baitul-quran\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Imam\Documents\Work Projects\Sistem Keuangan - PP Baitul Quran Tangsel\siskeu-baitul-quran\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\Users\Imam\Documents\Work Projects\Sistem Keuangan - PP Baitul Quran Tangsel\siskeu-baitul-quran-local\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Imam\Documents\Work Projects\Sistem Keuangan - PP Baitul Quran Tangsel\siskeu-baitul-quran-local\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })
