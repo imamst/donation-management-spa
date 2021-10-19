@@ -17,12 +17,12 @@ Features:
 - Daily, Monthly and Annual Report in PDF file format
 - User Account Management and Restriction (block & unblock account)
 
-# Live demo:
+<!-- # Live demo:
 
 https://imamsetiawan.id/projects/donation-management-spa/
 
 * email: super.admin@example.com
-* password: 12345678
+* password: 12345678 -->
 
 # Screenshots
 
@@ -54,4 +54,4 @@ https://imamsetiawan.id/projects/donation-management-spa/
 ## Author Contact
 
 - Email - [imamset.business@gmail.com](mailto:imamset.business@gmail.com)
-- Website - [Imam Setiawan](https://imamsetiawan.id)
+<!-- - Website - [Imam Setiawan](https://imamsetiawan.id) -->
