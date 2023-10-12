@@ -35,20 +35,22 @@ https://imamsetiawan.id/projects/donation-management-spa/
 
 ## Getting Started
 
-* Download or clone repository `https://github.com/onestica/digital-printing-inventory-management-system`
-* Create database `donation-management`
-* Open `env.example` file, adjust to your env config: 
+* Download or clone repository `git clone https://github.com/imamst/donation-management-spa.git`
+* Create PostgreSQL database `donation-management`
+* Rename `.env.example` file to `.env`, adjust to your env config: 
 	* `APP_URL`
 	* `SANCTUM_STATEFUL_DOMAINS` => fill in same as `APP_URL`
 	* `MIX_APP_URL` => fill in same as `APP_URL`
-	* `DB_USERNAME`
+	* `DB_DATABASE`
+    * `DB_USERNAME`
 	* `DB_PASSWORD`
-* Open terminal inside project folder
-* Run command `npm run watch`
-* Open another terminal
+* Open terminal inside project root
+* Run command `composer install`
+* Run command `npm install`
 * Run command `php artisan key:generate`
 * Run command `php artisan migrate:refresh` (without demo data)
 	* Or `php artisan migrate:refresh --seed` (with demo data)
+* Run command `npm run dev`
 * Run command `php artisan serve` then access http://localhost:8000 in your browser
 
 ## Author Contact
